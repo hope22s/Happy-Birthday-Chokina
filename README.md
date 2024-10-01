@@ -1,7 +1,7 @@
 # Happy-Birthday-Chokina
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://github.com/hope22s/Happy-Birthday-Chokina.git)
+[Demo](https://hope22s.github.io/Happy-Birthday-Chokina/)
 
 ## 🚀 How to Use
 
